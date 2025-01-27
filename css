@@ -1,0 +1,52 @@
+<!DOCTYPE >
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+
+    
+    
+
+    
+</head>
+<body>
+    <header>
+        <h1 style="color: brown;">CSS</h1>
+    </header>
+    <hr>
+
+    <main>
+
+
+      <section style="background-color: blueviolet;"><div style="background-color: blue;"><h1>Cascading Style Sheets</h1></div></section>
+       <hr>
+      <div style="background-color: blanchedalmond;">
+        <section>
+
+         <ul>
+        <li>Inline CSS</li>
+        <li>Internal CSS</li>
+        <li>External CSS</li>
+       </ul>
+       </section>
+       </div>
+
+
+    </main>
+
+    <hr>
+
+    <footer>
+        <a href=""><button>CSS</button></a>
+        <select name="" id="css">
+            <option value="inline">Inline</option>
+            <option value="internal">Internal</option>
+            <option value="External">External</option>
+        </select>
+    </footer>
+
+    
+</body>
+</html>
