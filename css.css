@@ -1,0 +1,24 @@
+select{
+    color: brown;
+}
+
+button{
+    color: blue;
+}
+
+h1{
+    color: aqua;
+}
+
+header{
+    background-color: blueviolet;
+}
+
+footer{
+    background-color: darksalmon;
+}
+
+main{
+    background-color: aqua;
+}
+
